@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src= "https://s5.ezgif.com/tmp/ezgif-5ea7dc7912fcc44c.gif" ="100%" />
+<img src="https://s5.ezgif.com/tmp/ezgif-5ea7dc7912fcc44c.gif" width="100%" />
 
 # goiard
 
