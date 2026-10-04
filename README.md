@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src=https://imgur.com/a/wE2U8Bw width="100%" />
+<img src=https://i.imgur.com/YVymiUu.mp4="100%" />
 
-# Alessio
+# goiard
 
 **building things · trading · experimenting**
 
