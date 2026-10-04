@@ -1,5 +1,5 @@
 # 💫 About Me:
-i make cool things with ai
+i make cool things with ai , 
 i like crypto<br>
 
 
