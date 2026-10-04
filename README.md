@@ -1,5 +1,6 @@
 # 💫 About Me:
-I make cool things with ai<br>
+i make cool things with ai
+i like crypto<br>
 
 
 ## 🌐 Socials:
