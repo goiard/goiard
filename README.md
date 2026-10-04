@@ -18,5 +18,3 @@ student
 german/english
 newbie
 ```
-
-building things · trading · experimenting
