@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=https://i.imgur.com/YVymiUu.mp4="100%" />
+<img src= "https://i.imgur.com/YVymiUu.mp4" ="100%" />
 
 # goiard
 
@@ -16,11 +16,11 @@
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   currently                                                │
-│   ─────────                                                │
-│   → building projects                                      │
-│   → exploring crypto & memecoins                            │
-│   → learning something new every day                       │
+│   currently                                                  │
+│   ─────────                                                  │
+│   → building projects                                        │
+│   → exploring crypto & memecoins                             │
+│   → learning something new every day                         │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
