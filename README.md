@@ -16,6 +16,4 @@
 ```
 currently working on:
 ╰ an all in one student dashboard
-╰ fully open source
-╰ real website with a free / paid plan later on
 ```
