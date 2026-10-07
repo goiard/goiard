@@ -15,5 +15,5 @@
 
 ```
 currently working on:
-╰ an all in one student dashboard
+╰ chrome extension for chess.com
 ```
